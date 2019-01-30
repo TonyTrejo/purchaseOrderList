@@ -1,0 +1,7 @@
+{
+    "editor.formatOnSave": true,
+    "prettier.useTabs": true,
+    "html.format.indentHandlebars": true,
+    "html.format.indentInnerHtml": true,
+    "prettier.proseWrap": "always"
+}
